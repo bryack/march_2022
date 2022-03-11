@@ -1,3 +1,3 @@
 123456qwerty
-asdfghjkl;'[
+Autotests_Check
 qwertyuiop[]
